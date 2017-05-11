@@ -1,0 +1,20 @@
+c:\users\asus\documents\visual studio 2012\Projects\Geometri\Geometri\bin\Debug\Geometri.exe.config
+c:\users\asus\documents\visual studio 2012\Projects\Geometri\Geometri\bin\Debug\Geometri.exe
+c:\users\asus\documents\visual studio 2012\Projects\Geometri\Geometri\bin\Debug\Geometri.pdb
+c:\users\asus\documents\visual studio 2012\Projects\Geometri\Geometri\bin\Debug\Geometri.xml
+c:\users\asus\documents\visual studio 2012\Projects\Geometri\Geometri\obj\Debug\Geometri.Form1.resources
+c:\users\asus\documents\visual studio 2012\Projects\Geometri\Geometri\obj\Debug\Geometri.Resources.resources
+c:\users\asus\documents\visual studio 2012\Projects\Geometri\Geometri\obj\Debug\Geometri.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2012\Projects\Geometri\Geometri\obj\Debug\Geometri.exe
+c:\users\asus\documents\visual studio 2012\Projects\Geometri\Geometri\obj\Debug\Geometri.xml
+c:\users\asus\documents\visual studio 2012\Projects\Geometri\Geometri\obj\Debug\Geometri.pdb
+G:\Document\Project\Geometri\Geometri\bin\Debug\Geometri.exe.config
+G:\Document\Project\Geometri\Geometri\obj\Debug\Geometri.exe
+G:\Document\Project\Geometri\Geometri\obj\Debug\Geometri.xml
+G:\Document\Project\Geometri\Geometri\obj\Debug\Geometri.pdb
+G:\Document\Project\Geometri\Geometri\bin\Debug\Geometri.exe
+G:\Document\Project\Geometri\Geometri\bin\Debug\Geometri.pdb
+G:\Document\Project\Geometri\Geometri\bin\Debug\Geometri.xml
+G:\Document\Project\Geometri\Geometri\obj\Debug\Geometri.Form1.resources
+G:\Document\Project\Geometri\Geometri\obj\Debug\Geometri.Resources.resources
+G:\Document\Project\Geometri\Geometri\obj\Debug\Geometri.vbproj.GenerateResource.Cache
